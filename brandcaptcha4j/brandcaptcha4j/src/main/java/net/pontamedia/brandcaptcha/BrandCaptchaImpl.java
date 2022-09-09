@@ -36,9 +36,9 @@ public class BrandCaptchaImpl implements BrandCaptcha {
     public static final String PROPERTY_THEME = "theme";
     public static final String PROPERTY_TABINDEX = "tabindex";
 
-    public static final String HTTP_SERVER = "http://api.pontamedia.net";
-    public static final String HTTPS_SERVER = "https://api.pontamedia.net";
-    public static final String VERIFY_URL = "http://api.pontamedia.net/verify.php";
+    public static final String HTTP_SERVER = "http://api.ponta.co";
+    public static final String HTTPS_SERVER = "https://api.ponta.co";
+    public static final String VERIFY_URL = "http://api.ponta.co/verify.php";
 
     private String privateKey;
     private String publicKey;
